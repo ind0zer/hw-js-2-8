@@ -1,0 +1,7 @@
+dist
+.parcel-cache
+.vacode
+cache
+.cache
+node_modules/
+!node_modules/.cache/gh-pages/
